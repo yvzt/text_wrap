@@ -34,7 +34,11 @@ The philosophy is deliberately simple:
   - Uses Tkinter (optionally ttkbootstrap for styling)
 
 ---
+## Acknowledgement
 
+This repository was developed using AI-assisted tools as part of an interactive workflow.
+
+---
 ## Intended Use Cases
 
 - Beamer slide preparation
