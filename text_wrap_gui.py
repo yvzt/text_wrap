@@ -21,8 +21,6 @@ SEL = "<SEL>"
 
 
 DEFAULT_RULES = [
-  # You said you'll populate this list. Add/edit freely.
-  # Template must contain <SEL>. <CURSOR> marks where the caret should end up.
   ("textcolor", r"\textcolor{" + CURSOR + r"}{" + SEL + r"}"),
   ("textbf", r"\textbf{" + SEL + r"}"),
   ("emph", r"\emph{" + SEL + r"}"),
